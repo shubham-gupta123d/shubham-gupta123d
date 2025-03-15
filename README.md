@@ -1,6 +1,6 @@
 ### Hi there! I'm Shubham Kumar 👋
 
-🚀 **Front-End Developer | React Enthusiast | JavaScript Game Developer**
+🚀 **Front-End Developer | React Enthusiast | Core Java Developer**
 
 ---
 
