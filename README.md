@@ -1,7 +1,7 @@
 # Hey👋 I'm Shubham Kumar  
 A passionate **Front-End Developer** & tech enthusiast who loves to explore new technologies.  
 
-<img src="https://your-image-link.gif" width="400px" align="right">
+<img src="[https://your-image-link.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4waHJoc2ZqbTJobGs3OTZ3MmljeWhzMzR6YWJrbm0weDc4dTV4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frXrz3i1HwAwLX7Mr6/giphy.gif)" width="400px" align="right">
 
 ### 🚀 **About Me:**
 - 😊 Pronouns: He/Him  
