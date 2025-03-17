@@ -15,7 +15,7 @@ A passionate **Front-End Developer** with a strong interest in JavaScript, React
 
 ### 🛠️ Tech Stack & Tools:
 #### **Languages:**  
-<div style="width: 100px;">
+<div style="width: 10px;">
   <img src="https://files.ably.io/ghost/prod/2023/12/choosing-the-best-javascript-frameworks-for-your-next-project.png">
 </div>
 
