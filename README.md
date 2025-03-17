@@ -1,47 +1,25 @@
-### Hi there! I'm Shubham Kumar 👋
+# Hey👋 I'm Shubham Kumar  
+A passionate **Front-End Developer** & tech enthusiast who loves to explore new technologies.  
 
-🚀 **Front-End Developer | React Enthusiast | Core Java Developer**
+<img src="https://your-image-link.gif" width="400px" align="right">
 
----
-
-### 👨‍💻 About Me:
-- 🎓 **BCA Graduate** | Passionate about Front-End Development
-- 💻 **Full Stack Java Developer** with expertise in **React, Redux, Spring Boot, and MySQL**
-- 🎨 **UI/UX Lover** | Creating pixel-perfect, responsive websites
-- 🎮 **JavaScript Game Development Enthusiast**
-- 🔍 Constantly exploring new technologies & frameworks
-
----
-
-### 🌱 Currently Learning:
-- **Advanced React Animations** 🚀
-- **Data Structures & Algorithms** 📚
-- **Optimizing Web Performance** ⚡
+### 🚀 **About Me:**
+- 😊 Pronouns: He/Him  
+- 👨‍🎓 Education: Bachelor's in Computer Application (BCA)  
+- 🌱 Currently learning **React, Redux & Frontend Development**  
+- 🤝 Open to collaborate on **Web Development & JavaScript Projects**  
+- ⚡ Fun fact: I love coding and problem-solving!  
 
 ---
 
-### 💡 What I Do:
-- 🚀 **Build Scalable Web Applications** using **React.js, JavaScript, and CSS Frameworks**
-- 🔧 **Develop RESTful APIs** with **Spring Boot & MySQL**
-- 🎮 **Experiment with JavaScript Game Development**
+### 🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-gupta123d/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham-gupta123d)  
 
 ---
 
-### 💞️ Open to Collaborate On:
-- Front-end projects (React, JavaScript, Bootstrap, Tailwind CSS)
-- Game development using JavaScript/React
-- Full-stack web applications
-
----
-
-### 📫 Connect With Me:
-- **GitHub**: [shubham-gupta123d](https://github.com/shubham-gupta123d)
-- **LinkedIn**: [Shubham Kumar]( https://www.linkedin.com/in/shubham-gupta-4715842aa )
-- **Portfolio**: [My Projects](https://shubham-gupta123d.github.io/Shubham-Portfolio/)
-
----
-
-### ⚡ Fun Fact:
-💡 "Debugging is like being the detective in a crime movie where you are also the murderer."
-
-Let's code and create something awesome together! 🚀
+### 🛠 **Tech Stack:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
