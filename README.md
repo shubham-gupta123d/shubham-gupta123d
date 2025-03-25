@@ -47,7 +47,7 @@ A passionate **Front-End Developer** with a strong interest in JavaScript, React
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/shubham-gupta-4715842aa
 )  
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)]([https://shubham-gupta123d.github.io/](https://shubham-gupta123d.github.io/Shubham-Portfolio/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://shubham-gupta123d.github.io/](https://shubham-gupta123d.github.io/Shubham-Portfolio/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham-gupta123d)  
 
 ---
